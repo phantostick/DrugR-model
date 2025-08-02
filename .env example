@@ -1,5 +1,5 @@
 # Hugging Face Configuration
-HUGGINGFACE_TOKEN=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
+HUGGINGFACE_TOKEN=your_huggingface_token_here
 
 # Model Configuration  
 MODEL_NAME=ibm-granite/granite-3b-code-instruct-2k
