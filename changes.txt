@@ -1,0 +1,39 @@
+ibm 2b downlaod
+# configuration -, prescription +
+# dosage based on age
+drugbank similar ui
+backend watson - granite
+hugging face api key generate (read)
+
+
+documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light mode
+
